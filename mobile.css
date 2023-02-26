@@ -1,0 +1,29 @@
+
+@media (max-width: 600px){
+   #corpo #azul {
+     height: 500px;
+     padding: 20px;
+    }
+
+    #corpo #azul figure, #corpo #amarelo figure{
+     width: 200px;
+     height: 150px;
+     padding: 10px;
+    }
+
+   .azul{
+     display: block;
+    }
+}
+
+
+ @media (max-width: 400px){
+    #corpo #amarelo{
+    height: 400px;
+    display: block;
+     }
+
+     #corpo #amarelo figure{
+        padding: 25px;
+     }
+ }
